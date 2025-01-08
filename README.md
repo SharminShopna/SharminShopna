@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width: 100%; height: 200px;" src="https://github.com/SharminShopna/SharminShopna/blob/main/IMG_4486.JPG"  />
+  <img style="width: 100%; height: 400px;" src="https://github.com/SharminShopna/SharminShopna/blob/main/IMG_4486.JPG"  />
 </div>
 
 ###
