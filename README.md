@@ -24,6 +24,17 @@
 
 ###
 
+<h2 align="left">📞 Contact Me</h2>
+
+###
+
+<p align="left">
+  📧 Email: <a href="mailto:sharminshopna149@gmail.com">sharminshopna149@gmail.com</a> <br>
+  📱 Phone: <a href="tel:+8801303058388">+8801303058388</a>
+</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
