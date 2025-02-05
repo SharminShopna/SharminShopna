@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">📞 Contact Me</h2>
+<h2 align="center">📞 Contact Me</h2>
 
 ###
 
